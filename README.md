@@ -18,3 +18,4 @@ console.log(generatorRandomString(10));
 console.log(generateId(10));
 console.log(generateEmail());
 console.log(generateOTP(6));
+
