@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "A random generator for id,string,email and otp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekkar123/random-string-creator.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhishekkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Abhishekkar123/random-string-creator/issues"
+  },
+  "homepage": "https://github.com/Abhishekkar123/random-string-creator#readme"
+}
