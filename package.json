@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "random-string-creator",
   "version": "1.0.0",
   "description": "A random generator for id,string,email and otp",
   "main": "index.js",
